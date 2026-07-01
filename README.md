@@ -14,5 +14,5 @@ Converts between C and F.
 A food delivery app gives discounts based on coupon codes and order amount.
 
 ### Username validator  (`usernamevalidator.py`)
-A username validator which check username is valid or not
+A program which checks whether the username is valid according to the conditions.
 
