@@ -18,3 +18,6 @@ A program which checks whether the username is valid according to the conditions
 
 ### E-mail Slicer  (`emailslicer.py`)
 Helps in differentiating email with username and domain with help of indexing.
+
+### Multiplication table Program (`table.py`)
+Created a multiplication table using while loop
