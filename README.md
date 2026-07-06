@@ -24,3 +24,6 @@ Created a multiplication table using while loop
 
 ### Shopping Cart System(`shcart.py`)
 A program which manages a shopping cart by allowing users to add items and view price
+
+### Quiz Game (`quiz.py`)
+A program with multiple questions with different options and the final score with help of python.
