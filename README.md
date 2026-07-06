@@ -21,3 +21,6 @@ Helps in differentiating email with username and domain with help of indexing.
 
 ### Multiplication table Program (`table.py`)
 Created a multiplication table using while loop
+
+### Shopping Cart System(`shcart.py`)
+A program which manages a shopping cart by allowing users to add items and view price
