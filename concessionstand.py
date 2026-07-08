@@ -22,7 +22,7 @@ while True:
     elif menu.get(food) is not None:
         cart.append(food)
 print("~~~YOUR CART~~~")
-for food in cart:
+for food in cart: #total 
     total = total + menu.get(food)
     
     print(food,end =" || ")
