@@ -1,3 +1,5 @@
+#Rock paper scissor game using random module
+
 import random
  
 options = ("rock","paper","scissors")
