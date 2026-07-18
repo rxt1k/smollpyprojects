@@ -34,3 +34,5 @@ This program shows menu and helps user to select items and show the total with t
 ### Random Module Number Guessing Game (`quiz.py`)
 Random number guesssing game by importing random module in python.
 
+### Dice program (`dice.py`)
+Random dice printing program
